@@ -1,14 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d58ce3c-f4cb-4ce5-b6e6-dfe94bdd4aa5" name="Changes" comment="" />
+    <list default="true" id="5d58ce3c-f4cb-4ce5-b6e6-dfe94bdd4aa5" name="Changes" comment="adicionando exercicios java sobre laços de repetição do dia 15.12">
+      <change afterPath="$PROJECT_DIR$/src/lacos_repeticao/exercicio1Repeticao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lacos_repeticao/exercicio2Repeticao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lacos_repeticao/exercicio3Repeticao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lacos_repeticao/exercicio4Repeticao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lacos_repeticao/exercicio5Repeticao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lacos_repeticao/exercicio6Repeticao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lacos_repeticao/lacoFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lacos_repeticao/lacoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lacos_repeticao/numeroDoTecladoMultiplicadoPorTres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lacos_repeticao/sistemaDeSomaComNumerosImpares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lacos_repeticao/somaDosNumerosAteONumeroDigitado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lacos_de_repeticao/numeroDoTecladoMultiplicadoPorTres.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lacos_de_repeticao/sistemaDeSomaComNumerosImpares.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lacos_de_repeticao/somaDosNumerosAteONumeroDigitado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores_com_java/exercicioFabrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operadores_com_java/exercicioFabrica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores_com_java/sistemaDeLeitura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operadores_com_java/sistemaDeLeitura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores_com_java/sistemaDeNotas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operadores_com_java/sistemaDeNotas.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Ivy8sZQYLyIZFTsMoWeh9sEla0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,12 +48,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +64,20 @@
       <updated>1671076199567</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adicionando exercicios java sobre laços de repetição do dia 15.12" />
+    <option name="LAST_COMMIT_MESSAGE" value="adicionando exercicios java sobre laços de repetição do dia 15.12" />
   </component>
 </project>
