@@ -5,24 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d58ce3c-f4cb-4ce5-b6e6-dfe94bdd4aa5" name="Changes" comment="adicionando exercicios java sobre laços de repetição do dia 15.12">
-      <change afterPath="$PROJECT_DIR$/src/lacos_repeticao/exercicio1Repeticao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lacos_repeticao/exercicio2Repeticao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lacos_repeticao/exercicio3Repeticao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lacos_repeticao/exercicio4Repeticao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lacos_repeticao/exercicio5Repeticao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lacos_repeticao/exercicio6Repeticao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lacos_repeticao/lacoFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lacos_repeticao/lacoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lacos_repeticao/numeroDoTecladoMultiplicadoPorTres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lacos_repeticao/sistemaDeSomaComNumerosImpares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lacos_repeticao/somaDosNumerosAteONumeroDigitado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lacos_de_repeticao/numeroDoTecladoMultiplicadoPorTres.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lacos_de_repeticao/sistemaDeSomaComNumerosImpares.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lacos_de_repeticao/somaDosNumerosAteONumeroDigitado.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operadores_com_java/exercicioFabrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operadores_com_java/exercicioFabrica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operadores_com_java/sistemaDeLeitura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operadores_com_java/sistemaDeLeitura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operadores_com_java/sistemaDeNotas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operadores_com_java/sistemaDeNotas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,12 +34,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,6 +50,14 @@
       <option name="presentableId" value="Default" />
       <updated>1671076199567</updated>
     </task>
+    <task id="LOCAL-00001" summary="adicionando exercicios java sobre laços de repetição do dia 15.12">
+      <created>1671135696831</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671135696831</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
